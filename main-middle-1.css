@@ -8,6 +8,9 @@
 .flex {
   display: flex;
 }
+.main-middle-1 {
+  margin-bottom: 100px;
+}
 .main-middle-1 h2 {
   margin-bottom: 50px;
   font-size: 2rem;
@@ -57,6 +60,6 @@
   padding: 12px;
 }
 .hover2:hover {
-  background-image: url("./wave-haikei.png");
+  background-image: url("./wave-haikei\ \(1\).png");
   color: #f0f0f0;
 }
