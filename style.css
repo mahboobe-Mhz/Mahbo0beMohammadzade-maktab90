@@ -1,0 +1,7 @@
+@import url("./reset.css");
+@import url("./header.css");
+@import url("./main-top.css");
+@import url("./main-middle-1.css");
+body {
+  font-family: sans-serif;
+}

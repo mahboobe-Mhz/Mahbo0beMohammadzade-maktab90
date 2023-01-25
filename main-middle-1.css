@@ -1,0 +1,62 @@
+.flex-column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.flex {
+  display: flex;
+}
+.main-middle-1 h2 {
+  margin-bottom: 50px;
+  font-size: 2rem;
+  width: 40%;
+  text-align: center;
+}
+.card-1 {
+  background-color: white;
+  margin-left: 20px;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.icon-card-1 {
+  color: #b08a89;
+}
+.border-rd-1 {
+  background-color: #f7ebea;
+  border-radius: 50px;
+  margin-bottom: 50px;
+  padding: 12px;
+}
+.icon-card-2 {
+  color: #8b681d;
+}
+.border-rd-2 {
+  background-color: #f6f3ee;
+  border-radius: 50px;
+  margin-bottom: 50px;
+  padding: 12px;
+}
+.icon-card-3 {
+  color: #5d9491;
+}
+.border-rd-3 {
+  background-color: #e6f5f5;
+  border-radius: 50px;
+  margin-bottom: 50px;
+  padding: 12px;
+}
+.icon-card-4 {
+  color: #ae38c9;
+}
+.border-rd-4 {
+  background-color: #ebecef;
+  border-radius: 50px;
+  margin-bottom: 50px;
+  padding: 12px;
+}
+.hover2:hover {
+  background-image: url("./wave-haikei.png");
+  color: #f0f0f0;
+}

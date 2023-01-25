@@ -1,0 +1,52 @@
+main {
+  padding: 30px 100px 100px 100px;
+  background-color: #fff;
+}
+.main-top {
+  display: flex;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.main-left {
+  position: relative;
+}
+.main-right h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+.main-right h3 {
+  margin-bottom: 20px;
+}
+.margin-botten {
+  margin-bottom: 20px;
+}
+.flex {
+  display: flex;
+}
+.icon-1 {
+  font-size: 30px;
+  position: relative;
+  top: -6px;
+  right: 20px;
+}
+.icon-2 {
+  font-size: 30px;
+  position: relative;
+  top: -6px;
+  right: 20px;
+}
+.icon-3 {
+  font-size: 30px;
+  position: relative;
+  top: -6px;
+  right: 20px;
+}
+.in-icon-1 {
+  color: #e38439;
+}
+.in-icon-2 {
+  color: #5eb430;
+}
+.in-icon-3 {
+  color: #4784e2;
+}
