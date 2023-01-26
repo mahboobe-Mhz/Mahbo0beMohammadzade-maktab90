@@ -19,9 +19,9 @@ let arr = [
   },
 ];
 
-function sorting() {
+function sorting(arr) {
   arr.sort((a, b) => a.age - b.age);
-  console.log(arr);
+  return arr;
 }
 
-sorting();
+sorting(arr);
